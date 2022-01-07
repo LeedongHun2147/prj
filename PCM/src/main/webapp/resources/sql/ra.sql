@@ -1,0 +1,10 @@
+insert into food VALUES ('김치라면', '라면류', 2000, 50, '라면/김치라면.JPG');
+insert into food VALUES ('너구리', '라면류', 2000, 50, '라면/너구리.JPG');
+insert into food VALUES ('불닭볶음면', '라면류', 2000, 50, '라면/불닭볶음면.JPG');
+insert into food VALUES ('비빔면', '라면류', 2000, 50, '라면/비빔면.JPG');
+insert into food VALUES ('사리곰탕', '라면류', 2000, 50, '라면/사리곰탕.JPG');
+insert into food VALUES ('신라면', '라면류', 2000, 50, '라면/신라면.JPG');
+insert into food VALUES ('왕뚜껑', '라면류', 2000, 50, '라면/왕뚜껑.JPG');
+insert into food VALUES ('육개장', '라면류', 2000, 50, '라면/육개장.JPG');
+insert into food VALUES ('진짬뽕', '라면류', 2000, 50, '라면/진짬뽕.JPG');
+insert into food VALUES ('짜파게티', '라면류', 2000, 50, '라면/짜파게티.JPG');
